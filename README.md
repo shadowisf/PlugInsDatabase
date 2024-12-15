@@ -1,4 +1,4 @@
-# PLUG-INS DATABASE
+# PLUG-INS
 <img width="1680" alt="Screenshot 2024-06-30 at 2 40 25 PM" src="https://github.com/shadowisf/Plug-insDatabase/assets/97739695/b204619e-1b44-4db9-81b0-1c1c98451eb6">
 
 &emsp;
